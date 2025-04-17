@@ -50,6 +50,8 @@ button:hover {
 
 #change-due {
   margin-top: 20px;
+  padding: 15px;
+  border: 2px solid #ccc;
+  background-color: #fffbe6;
   font-weight: bold;
-  font-size: 1.2rem;
 }
